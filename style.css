@@ -1,0 +1,33 @@
+html { 
+background:black; 
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
+
+}
+
+div {
+background-color: black;
+font color: white; 
+
+}
+
+h3 {
+
+background-color: white;
+font color: black;
+
+}
+
+p {
+color: white;
+}
+
+blockquote {
+color: white;
+}
+
+a:hover { 
+background-color: yellow;
+}
